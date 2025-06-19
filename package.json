@@ -1,0 +1,15 @@
+{
+  "name": "potber",
+  "version": "0.0.0",
+  "description": "The potber monorepo.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "author": {
+    "name": "spuxx",
+    "email": "hi@spuxx.dev",
+    "url": "https://spuxx.dev"
+  },
+  "homepage": "https://github.com/potber/potber/blob/main/README.md",
+  "packageManager": "pnpm@9.6.0"
+}
